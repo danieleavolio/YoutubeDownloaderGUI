@@ -1,0 +1,15 @@
+./downloads
+/downloads
+
+
+*.pyc
+__pycache__/
+.env
+.vscode/
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
